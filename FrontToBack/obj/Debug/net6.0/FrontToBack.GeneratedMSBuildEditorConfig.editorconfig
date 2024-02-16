@@ -9,49 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FrontToBack
 build_property.RootNamespace = FrontToBack
-build_property.ProjectDir = C:\Users\toghrulih\source\repos\FrontToBack\FrontToBack\
+build_property.ProjectDir = C:\Users\acer\Desktop\task\FrontToBack\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\toghrulih\source\repos\FrontToBack\FrontToBack
+build_property.MSBuildProjectDirectory = C:\Users\acer\Desktop\task\FrontToBack
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/About/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
+[C:/Users/acer/Desktop/task/FrontToBack/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/Contact/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0LmNzaHRtbA==
+[C:/Users/acer/Desktop/task/FrontToBack/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/Home/Index.cshtml]
+[C:/Users/acer/Desktop/task/FrontToBack/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+[C:/Users/acer/Desktop/task/FrontToBack/Views/Pricing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/Pricing/Pricing.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2luZ1xQcmljaW5nLmNzaHRtbA==
+[C:/Users/acer/Desktop/task/FrontToBack/Views/WorkSingle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1NpbmdsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/WorkSingle/WorkSingle.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1NpbmdsZVxXb3JrU2luZ2xlLmNzaHRtbA==
+[C:/Users/acer/Desktop/task/FrontToBack/Views/Work/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/Work/Work.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xXb3JrLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/_ViewImports.cshtml]
+[C:/Users/acer/Desktop/task/FrontToBack/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/_ViewStart.cshtml]
+[C:/Users/acer/Desktop/task/FrontToBack/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/toghrulih/source/repos/FrontToBack/FrontToBack/Views/Shared/_Layout.cshtml]
+[C:/Users/acer/Desktop/task/FrontToBack/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q4mdq0irkg

@@ -4,7 +4,7 @@ namespace FrontToBack.Controllers
 {
     public class AboutController : Controller
     {
-        public IActionResult About()
+        public IActionResult Index()
         {
             return View();
         }

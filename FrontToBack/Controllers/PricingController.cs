@@ -4,7 +4,7 @@ namespace FrontToBack.Controllers
 {
     public class PricingController : Controller
     {
-        public IActionResult Pricing()
+        public IActionResult Index()
         {
             return View();
         }

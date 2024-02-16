@@ -4,7 +4,7 @@ namespace FrontToBack.Controllers
 {
     public class WorkController : Controller
     {
-        public IActionResult Work()
+        public IActionResult Index()
         {
             return View();
         }
